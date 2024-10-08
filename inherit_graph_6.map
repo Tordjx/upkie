@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,185,92,212"/>
+<area shape="rect" id="node2" href="$classupkie_1_1exceptions_1_1UpkieException.html" title="Base class for exceptions raised by Upkie agents." alt="" coords="140,123,379,149"/>
+<area shape="rect" id="node7" href="$classupkie_1_1spine_1_1exceptions_1_1UpkieException.html" title="Base class for exceptions raised by Upkie." alt="" coords="152,239,367,281"/>
+<area shape="rect" id="node3" href="$classupkie_1_1exceptions_1_1FallDetected.html" title="Raised when a fall is detected." alt="" coords="447,5,665,32"/>
+<area shape="rect" id="node4" href="$classupkie_1_1exceptions_1_1MissingOptionalDependency.html" title="Raised when an optional feature lacks a corresponding optional dependency." alt="" coords="463,57,649,98"/>
+<area shape="rect" id="node5" href="$classupkie_1_1exceptions_1_1ModelError.html" title="Raised when something is wrong in the robot model." alt="" coords="452,123,660,149"/>
+<area shape="rect" id="node6" href="$classupkie_1_1exceptions_1_1UpkieRuntimeError.html" title="Runtime error, for instance an invalid call to a library function." alt="" coords="441,174,671,215"/>
+<area shape="rect" id="node8" href="$classupkie_1_1spine_1_1exceptions_1_1PerformanceIssue.html" title="Exception raised when a performance issue is detected." alt="" coords="427,239,685,281"/>
+<area shape="rect" id="node9" href="$classupkie_1_1spine_1_1exceptions_1_1SpineError.html" title="Exception raised when the spine sets an error flag in the request field of the shared memory map." alt="" coords="450,305,662,346"/>
+<area shape="rect" id="node10" title=" " alt="" coords="205,181,313,208"/>
+</map>
